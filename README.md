@@ -1,1 +1,1 @@
-# QR-code-generator
+# QR-code-generatorPython is a programming language that provides different modules and packages that allow us to generate a QR code. For this tutorial, we will be working with the qrcode package in order to generate the code
